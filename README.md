@@ -2,7 +2,7 @@
 
 # Visualizing the installed pv power per area for urban and rural communes in Germany
 
-In this small project we will try to get an overview of the installed power from photovoltaics per area in units of ![\frac{kWp}{km^2}](https://latex.codecogs.com/svg.latex?%5B%5Cfrac%7BkWp%7D%7Bkm%5E2%7D%5D) for every administrative district in Germany for the low- and medium-voltage power grid, thus providing us with an interactive heatmap, showing low and high concentrations of pv penetration over the country as a whole.
+In this small project we will try to get an overview of the installed power from photovoltaics per area in units of <img src="https://latex.codecogs.com/svg.latex?[\frac{kWp}{km^2}]" title="[\frac{kWp}{km^2}]" /> for every administrative district in Germany for the low- and medium-voltage power grid, thus providing us with an interactive heatmap, showing low and high concentrations of pv penetration over the country as a whole.
 
 The commented script can be found [here](./Installed pv power per area - Germany.ipynb). The resulting heatmap as an html file is found [here](./results/installed_power_LVMV_per_area_2019.html).
 
